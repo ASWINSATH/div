@@ -1,0 +1,150 @@
+body{
+    background-color: black;
+}
+#d1{
+    background-color: rgb(102, 100, 103);
+    width: 100px;
+    height: 200px;
+    margin-left:500px;
+    margin-top: 150px;
+}
+#d2{
+    background-color: darkolivegreen;
+    width: 100px;
+    height: 200px;
+    margin-left:630px ;
+    margin-top: -200px;
+}
+#d3{
+    background-color: aqua;
+    width: 100px;
+    height: 200px;
+    margin-left: 760px;
+    margin-top: -200px;
+}
+#d4{
+    background-color: firebrick;
+    width: 100px;
+    height: 200px;
+    margin-left: 890px;
+    margin-top: -200px;
+}
+#d5{
+    background-color: blue;
+    width: 100px;
+    height: 200px;
+    margin-left: 1010px;
+    margin-top: -200px;
+}
+#d6{
+    background-color: rgb(239, 111, 6);
+    width: 100px;
+    height: 200px;
+    margin-left: 300px;
+    margin-top:50px ;
+}
+#d7{
+    background-color: blueviolet;
+    width: 100px;
+    height: 200px;
+    margin-left:430px ;
+    margin-top: -200px;
+}
+#d8{
+    background-color: chartreuse;
+    width: 100px;
+    height: 200px;
+    margin-left: 560px;
+    margin-top: -200px;
+}
+#d9{
+    background-color: chocolate;
+    width: 100px;
+    height: 200px;
+    margin-left: 690px;
+    margin-top: -200px;
+}
+#d10{
+    background-color: crimson;
+    width: 100px;
+    height: 200px;
+    margin-left: 810px;
+    margin-top: -200px;
+}
+#d11{
+    background-color: coral;
+    width: 100px;
+    height: 200px;
+    margin-left: 940px;
+    margin-top: -200px;
+}
+#d12{
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 200px;
+    margin-left:1070px ;
+    margin-top: -200px;
+}
+#d13{
+    background-color: gold;
+    width: 100px;
+    height: 200px;
+    margin-left:150px ;
+    margin-top:50px ;
+}
+#d14{
+    background-color: darkgreen;
+    width: 100px;
+    height: 200px;
+    margin-left:280px ;
+    margin-top:-200px;
+}
+#d15{
+    background-color: darkred;
+    width: 100px;
+    height: 200px;
+    margin-left: 410px;
+    margin-top: -200px;
+}
+#d16{
+    background-color: deeppink;
+    width: 100px;
+    height: 200px;
+    margin-left: 540px;
+    margin-top: -200px;
+}
+#d17{
+    background-color: indigo;
+    width: 100px;
+    height: 200px;
+    margin-left: 670px;
+    margin-top: -200px;
+}
+#d18{
+    background-color: maroon;
+    width: 100px;
+    height: 200px;
+    margin-left: 800px;
+    margin-top: -200px;
+}
+#d19{
+    background-color: orangered;
+    width: 100px;
+    height: 200px;
+    margin-left: 930px;
+    margin-top: -200px;
+}
+#d20{
+    background-color: yellowgreen;
+    width: 100px;
+    height: 200px;
+    margin-left: 1060px;
+    margin-top: -200px;
+}
+#d21{
+    background-color: fuchsia;
+    width: 100px;
+    height: 200px;
+    margin-left: 1190px;
+    margin-top: -200px;
+}
